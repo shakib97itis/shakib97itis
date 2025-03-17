@@ -17,40 +17,45 @@ I'm a passionate **frontend developer** with a strong foundation in **HTML, CSS,
 - 🎯 Transition into **software architecture**, leveraging my expertise in system design to architect scalable, efficient, and maintainable solutions that power the next generation of tech products.
 - 🎯 Possibly develop and scale my own SaaS product in the future, depending on the opportunities and challenges that arise, with the aim to solve meaningful problems while focusing on robust architecture, seamless user experiences, and scalability.
 
-### 🛠 Tech Stack
-
-- **Languages:** JavaScript (ES6+), TypeScript (beginner), C++ (DSA)
-- **Frontend:** React, Redux, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express (learning)
-- **Tools:** Git & GitHub, Vite, Webpack
-- **Others:** Problem-solving, Data Structures & Algorithms (DSA)
-
-<hr>
-
-### 📂 Featured Projects
-
-- 🎨 **[Etch-a-Sketch](https://github.com/yourusername/etch-a-sketch)** – A fun drawing app built with JavaScript
-- 🏗️ **[MERN Stack Projects](https://github.com/yourusername/mern-projects)** – Full-stack applications using React, Node.js, and MongoDB
-- 💻 **[JavaScript Challenges](https://github.com/yourusername/js-challenges)** – DSA & problem-solving practice
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakib97itis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib97itis&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-### 📫 Connect with Me
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-</div>
-
 ###
 
-<img src="https://raw.githubusercontent.com/shakib97itis/shakib97itis/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakib97itis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib97itis&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### 🛠 Tech Stack (Currently Evolving)
+
+#### Languages:-
+
+- **JavaScript (ES6+)** – In-depth understanding of JavaScript, including its inner workings and behind-the-scenes processes, ensuring efficient and optimized code.
+- **TypeScript** – Basic understanding, actively learning more about its type-safe features.
+- **Python** – Basic knowledge, familiar with core syntax and principles.
+- **C++** – Basic understanding, focusing on problem-solving and fundamentals.
+- **Quick Learner** – Ability to quickly grasp new programming languages, recognizing similarities across languages.
+
+#### Frontend:-
+
+- **React** – Building dynamic UIs with hooks and state management.
+- **Redux** – Managing global state in large-scale apps.
+- **Tailwind CSS** – Creating responsive, customizable UIs.
+- **Bootstrap** – Using pre-built components for responsive design.
+- **CSS** – In-depth understanding of styling and layout techniques, with a strong grasp of how CSS works behind the scenes.
+
+#### Backend:-
+
+- Node.js – Building scalable server-side apps.
+- Express.js – Intermediate knowledge in building RESTful APIs.
+
+#### Tech Toolbox & Expertise:-
+
+- **Version Control**: Git & GitHub – Seamless collaboration and code management.
+- **Web Bundlers**: Vite & Webpack – Fast, optimized builds for modern web apps.
+- **API Tools**: Postman – Streamlined API testing and debugging.
+- **Design Tools**: Figma & Adobe XD – Collaborative design and prototyping.
+- **Problem Solving**: Tackling challenges and optimizing solutions with a strategic approach.
+- **DSA**: Building a solid foundation in algorithms and data structures, actively improving.
+- **Debugging**: Troubleshooting and optimizing code for maximum performance.
 
 ###
 
