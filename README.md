@@ -28,11 +28,11 @@ I'm a passionate **frontend developer** with a strong foundation in **HTML, CSS,
 
 ### **Frontend**
 
+- **CSS** – Strong grasp of styling, layout techniques, and how CSS works under the hood.
 - **React** – Building dynamic UIs with hooks and state management.
 - **Redux** – Managing global state in large-scale apps.
 - **Tailwind CSS** – Crafting responsive, customizable UIs.
 - **Bootstrap** – Using pre-built components for responsive design.
-- **CSS** – Strong grasp of styling, layout techniques, and how CSS works under the hood.
 
 ### **Backend**
 
@@ -41,12 +41,12 @@ I'm a passionate **frontend developer** with a strong foundation in **HTML, CSS,
 
 ### **Tools & Expertise**
 
+- **Problem Solving**: Tackling challenges with a strategic approach.
+- **DSA**: - Building a solid foundation in algorithms and data structures, actively improving.
 - **Version Control**: Git & GitHub – Seamless collaboration and code management.
 - **Web Bundlers**: Vite & Webpack – Fast, optimized builds for modern web apps.
 - **API Tools**: Postman – Streamlined API testing and debugging.
 - **Design Tools**: Figma & Adobe XD – Collaborative design and prototyping.
-- **Problem Solving**: Tackling challenges with a strategic approach.
-- **DSA**: - Building a solid foundation in algorithms and data structures, actively improving.
 
 ## 📊 **GitHub Stats**
 
@@ -64,6 +64,3 @@ I'm actively looking for **frontend developer roles**, **freelance projects**, o
 - **Email**: [shakib97itis@gmail.com](mailto:shakib97itis@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/shakib97itis](https://www.linkedin.com/in/shakib97itis)
 
----
-
-**[⬆ Back to Top](#Hi,-I'm-Shakib!)**
