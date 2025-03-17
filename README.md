@@ -6,18 +6,14 @@ I'm a passionate **frontend developer** with a strong foundation in **HTML, CSS,
 
 ## 🌱 **What I'm Currently Up To**
 
-- 🔥 Learning **MERN Stack development** at **Creative IT Institute** (Batch 2403) under **Taufik Islam**.
+- 🔥 Learning **MERN Stack development** at **Creative IT Institute** with my mentor **Taufik Islam**.
 - ⚛️ Building **frontend projects** with **React**, **Redux**, and **Tailwind CSS v4**.
 - 💡 Exploring **full-stack development** and backend technologies like **Node.js** and **Express.js**.
 - 🎯 Actively seeking my next adventure as a frontend developer!
 
-## 🎯 **Career Goals**
 
-- ✅ Secure a **frontend developer** role where I can contribute to building intuitive, high-performance web applications while growing as a developer.
-- 🏗️ Transition into **software architecture**, leveraging my expertise to design scalable, efficient, and maintainable systems.
-- 🚀 Possibly develop and scale my own **SaaS product** in the future, focusing on robust architecture, seamless user experiences, and scalability.
 
-## 🛠️ **Tech Stack** _(Currently Evolving)_
+## 🛠️ **Tech Stack** _(Evolving)_
 
 ### **Languages**
 
